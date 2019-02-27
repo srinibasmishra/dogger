@@ -1,0 +1,25 @@
+h1{
+    text-align: center;
+}
+
+.mew-form, .loading{
+    width: 50%;
+    margin: 0 auto;
+}
+
+.loading{
+    text-align: center;
+}
+.mews{
+
+   width: 80%;
+   margin: auto;
+    
+}
+.button-container{
+
+    display: flex;
+    justify-content: center;
+    margin: 1em;
+
+}
